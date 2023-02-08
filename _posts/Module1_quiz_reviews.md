@@ -37,9 +37,23 @@ tags: [UX]
 
 ### Test your knowledge on design sprints
 
-> Why might a team consider conducting a design sprint? Select all that apply.
+1. Why might a team consider conducting a design sprint? Select all that apply.
 
 - To identify which design challenge to take on
 - To answer questions
 - To develop cross-team strategies
 - To define product directions
+
+## Weekly Challenge 3: Design sprints
+![업로드중..](blob:https://velog.io/bb5bb516-6e1c-4745-b3f1-4d3e02694231)
+- Yay! But I am going to review questions that I wasn't fully sure.
+
+1. Can design sprints help teams save time?
+- Yes. Design sprints save time. With a sprint, a design team can shorten the decision-making process from several months to one week.
+
+> One of the major benefits of design sprints is that they help design teams save time. With a sprint teams can cut the decision-making process down from several months to just one week.
+
+2. As an entry level UX designer my role in design sprint planning is to set the goals.
+- False
+
+> As a UX designer your role is to provide design skills to the team in order to achieve the sprint objective. As a new team member, you will be assigned tasks and asked to give your feedback on how you will implement, and when it can be counted on to be completed.
