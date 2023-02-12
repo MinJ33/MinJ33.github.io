@@ -57,3 +57,12 @@ tags: [UX]
 - False
 
 > As a UX designer your role is to provide design skills to the team in order to achieve the sprint objective. As a new team member, you will be assigned tasks and asked to give your feedback on how you will implement, and when it can be counted on to be completed.
+
+### Test your knowledge on UX research methods
+
+1. Which research method is best suited for the following scenario?
+
+Team Donut is developing an app that allows users to navigate grocery stores and find in-stock items with ease. The demographic of users who use similar applications on the market will influence how Team Donut approaches the app’s interface design. Team Donut would like a large sample size of data. 
+- Surveys
+
+> A survey is an activity where many people are asked the same questions in order to understand what most people think about a product. They allow a team to assess from a larger sample size and gather insight quickly. It’s typically less expensive and less time-consuming than a few other methods, including interviews.
