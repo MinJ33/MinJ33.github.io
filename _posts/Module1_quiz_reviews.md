@@ -58,6 +58,23 @@ tags: [UX]
 
 > As a UX designer your role is to provide design skills to the team in order to achieve the sprint objective. As a new team member, you will be assigned tasks and asked to give your feedback on how you will implement, and when it can be counted on to be completed.
 
+## Weekly Challenge 4: Research in the design process
+
+1. What is the goal of UX research?
+- Prioritizing the user
+
+2. A design team is developing a new product and they want to understand how to build it. Which type of research can best help the team answer their question?
+- Design
+
+3. Imagine that a UX designer creates an app for saving, organizing, and streaming podcasts. To learn about users' experiences with their product, the designer conducts interviews with a select group of target users: podcast enthusiasts. The research team has a hypothesis that podcast enthusiasts prefer long-form, polished content—rather than talk radio and news—so they ask a series of questions about how users interact with this content. 
+
+How can the researcher avoid the impact of confirmation bias? Select all that apply.
+
+- Ask open-ended questions and actively listen to respondents
+- Interview a large group of users with diverse perspectives
+
+> One of the most effective methods for overcoming confirmation bias is to ask open-ended questions. This lets the person being interviewed answer freely instead of with a “yes” or “no” response. The researcher can also include a large sample of users with diverse perspectives.
+
 ### Test your knowledge on UX research methods
 
 1. Which research method is best suited for the following scenario?
