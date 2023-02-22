@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Coursera] Weekly challenge"
+title: "[Coursera] Weekly Challenge"
 subtitle: ""
 cover-img: /assets/img/weeklyC_path.jpg
 thumbnail-img: /assets/img/weeklyC_thumb.jpg
