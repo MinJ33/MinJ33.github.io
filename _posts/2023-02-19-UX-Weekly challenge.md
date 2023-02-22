@@ -2,9 +2,9 @@
 layout: post
 title: "[Coursera] Weekly challenge"
 subtitle: ""
-cover-img: /assets/img/module2-3_path.jpg
-thumbnail-img: /assets/img/module2-3_thumb.jpg
-share-img: /assets/img/module2-3_path.jpg
+cover-img: /assets/img/weeklyC_path.jpg
+thumbnail-img: /assets/img/weeklyC_thumb.jpg
+share-img: /assets/img/weeklyC_path.jpg
 tags: [UX]
 --- 
 
