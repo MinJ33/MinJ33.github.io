@@ -84,3 +84,11 @@ Team Donut is developing an app that allows users to navigate grocery stores and
 - Surveys
 
 > A survey is an activity where many people are asked the same questions in order to understand what most people think about a product. They allow a team to assess from a larger sample size and gather insight quickly. It’s typically less expensive and less time-consuming than a few other methods, including interviews.
+
+## Weekly Challenge 3: Define user problems
+![](https://velog.velcdn.com/images/erica990604/post/35cc7eb7-0e3c-425b-9361-eeb0cc891f33/image.png)
+
+1. Which of the “w” questions (who, what, when, where, or why) is missing from the following problem statement? 
+
+The user, Avery, is a fine arts enthusiast that lives in a major city. Avery goes to museums several times a month. Avery wants an easy way to secure timed museum tickets. Avery wants to buy tickets on their smartphone, while on-the-go exploring the city on weekend afternoons.
+- 
