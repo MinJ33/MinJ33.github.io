@@ -25,3 +25,24 @@ tags: [UX]
 - It can convey to UX designers what users think, say, feel, and do to understand what users actually need from a product. 
 
 > An empathy map is an easily-understood chart that explains everything the designer learns about a user.
+
+
+## Test your knowledge on how psychology and human factors influence design
+
+1. What are some common human factors that influence design? Select all that apply.
+- Misjudgment
+- Prejudice
+- Fear
+- Impatience
+
+> Misjudgment, Prejudice, Fear, and Impatience are a common human factors  and one of the variables humans bring to their product interactions. Other common human factors include but are not limited to prejudice, fear, and impatience.
+
+2. Consider the psychological concepts explored in this lesson. Which of the following is an example of a mental model?
+- Using a key to turn the ignition of a car to start it
+
+> We can predict the car will start because of the key turning the ignition.
+
+3. Fill in the blank: You test a new children’s game with a group of users. Some are able to reach the end of the game, while others quit after a few turns. The children who are able to finish the game enjoy the experience because of the positive _____.
+- feedback loop
+
+> The children who finished the game had a positive feedback loop, or outcome.
