@@ -26,7 +26,6 @@ tags: [UX]
 
 > An empathy map is an easily-understood chart that explains everything the designer learns about a user.
 
-
 ## Test your knowledge on how psychology and human factors influence design
 
 1. What are some common human factors that influence design? Select all that apply.
