@@ -45,3 +45,15 @@ tags: [UX]
 - feedback loop
 
 > The children who finished the game had a positive feedback loop, or outcome.
+
+## Module 4: Ideating design solutions - Test your knowledge on competitive audits
+1. A competitive audit would be useful in which of the following scenarios?
+- Team Y is in the process of developing a real estate app. The app allows users to identify available properties on the housing market. There’s a long list of other real estate apps available on mobile and computer platforms.
+
+> A competitive audit is an overview of a competitor’s strengths and weaknesses. Since there are many other real estate apps available, Team Y should determine how to improve the product to make it distinctive.
+
+2. What are characteristics of a direct competitor? Select all that apply.
+- Has users and end users that are similar
+- Offers similar services, products, or features
+
+> Direct competitors have similar users and end users, and offer similar products, services, or features. For example, if you’re offering a cloud-based storage system, companies that offer a similar product are considered direct competitors.
